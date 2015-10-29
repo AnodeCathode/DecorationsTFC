@@ -24,11 +24,11 @@ public class Constants
     
     public static GemInfo[] Gems =
     {
-        new GemInfo("Chipped", 11),
-        new GemInfo("Flawed", 12),
-        new GemInfo("Normal", 13),
-        new GemInfo("Flawless", 14),
-        new GemInfo("Exquisite", 15),
+        new GemInfo("Chipped", 7),
+        new GemInfo("Flawed", 8),
+        new GemInfo("Normal", 9),
+        new GemInfo("Flawless", 10),
+        new GemInfo("Exquisite", 11),
     };
     
     public static String[] Powders = { "Gypsum Powder" };
